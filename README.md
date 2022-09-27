@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PAVITHRA-MC
+- 👀 I’m interested in devops and aws
+- 🌱 I’m currently learning github
